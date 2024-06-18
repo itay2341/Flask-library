@@ -5,8 +5,8 @@
 
 To begin using this web, choose one of the following options to get started:
 
-- Clone the repo: `git clone https://github.com/itay2341/litaybrary.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/itay2341/litaybrary)
+- Clone the repo: `git clone https://github.com/itay2341/Flask-library.git`
+- [Fork, Clone, or Download on GitHub](https://github.com/itay2341/Flask-library.git)
 
 ## Usage
 
